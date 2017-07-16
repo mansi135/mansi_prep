@@ -1,0 +1,28 @@
+Types of Sort-
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort - Most common
+Merge Sort - Used on hard drives
+
+*******************************
+Iteration vs recursion
+
+******************************************
+Types of Search-
+Binary Search works on sorted arrays only so first sort the array
+DFS
+BFS
+*********************************************
+
+
+Todo-
+1) Find element in 2D array using binary search (all rows n columns are sorted)
+2) Maze Finding - DFS/BFS
+3) Pogo's watsapp links/tutorials study
+4) Binary Search trees (traversal/searching)
+5) Link-lists
+6) Blackjack using classes
+7) Capstones
+8) Cracking the coding interview
+9) Search methods-blind(DFS,BFS), partially blind(A*)
